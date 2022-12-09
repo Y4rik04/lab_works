@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NlXOtzseT0n78PlePNnwZbCfHKB0KFO7N7VVIkmGmamJppS+mBg4W8JoCWzDByQP3Kf4SL1lWcmMv1P+q/vVrg==",
+  "success": true,
+  "projectFilePath": "D:\\домашка\\Кросплатформне\\Лаб3\\laba3\\laba3\\laba3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
