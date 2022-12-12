@@ -1,0 +1,16 @@
+D:\домашка\Кросплатформне\Лаб4\lab4\lab4\bin\Debug\net5.0\lab4.exe
+D:\домашка\Кросплатформне\Лаб4\lab4\lab4\bin\Debug\net5.0\lab4.deps.json
+D:\домашка\Кросплатформне\Лаб4\lab4\lab4\bin\Debug\net5.0\lab4.runtimeconfig.json
+D:\домашка\Кросплатформне\Лаб4\lab4\lab4\bin\Debug\net5.0\lab4.runtimeconfig.dev.json
+D:\домашка\Кросплатформне\Лаб4\lab4\lab4\bin\Debug\net5.0\lab4.dll
+D:\домашка\Кросплатформне\Лаб4\lab4\lab4\bin\Debug\net5.0\ref\lab4.dll
+D:\домашка\Кросплатформне\Лаб4\lab4\lab4\bin\Debug\net5.0\lab4.pdb
+D:\домашка\Кросплатформне\Лаб4\lab4\lab4\obj\Debug\net5.0\lab4.csproj.AssemblyReference.cache
+D:\домашка\Кросплатформне\Лаб4\lab4\lab4\obj\Debug\net5.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\домашка\Кросплатформне\Лаб4\lab4\lab4\obj\Debug\net5.0\lab4.AssemblyInfoInputs.cache
+D:\домашка\Кросплатформне\Лаб4\lab4\lab4\obj\Debug\net5.0\lab4.AssemblyInfo.cs
+D:\домашка\Кросплатформне\Лаб4\lab4\lab4\obj\Debug\net5.0\lab4.csproj.CoreCompileInputs.cache
+D:\домашка\Кросплатформне\Лаб4\lab4\lab4\obj\Debug\net5.0\lab4.dll
+D:\домашка\Кросплатформне\Лаб4\lab4\lab4\obj\Debug\net5.0\ref\lab4.dll
+D:\домашка\Кросплатформне\Лаб4\lab4\lab4\obj\Debug\net5.0\lab4.pdb
+D:\домашка\Кросплатформне\Лаб4\lab4\lab4\obj\Debug\net5.0\lab4.genruntimeconfig.cache
